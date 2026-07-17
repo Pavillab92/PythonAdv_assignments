@@ -1,0 +1,58 @@
+LIST OF SOME OF THE MOST ENV VARIABLES USED IN MAYA
+
+MAYA_APP_DIR
+Defines your personal Maya application directory.
+
+MAYA_ENV_DIR
+Read the Maya.env file from a custom location instead
+
+MAYA_CMD_FILE_OUTPUT
+Enables the cmdFileOutput command during startup so the content in the script editor automatically outputs to a designated file.
+
+MAYA_CONTENT_PATH
+Obtains the paths to the content directories with which you can populate the Examples tab in the Content Browser. 
+
+MAYA_CUSTOM_TEMPLATE_PATH
+Used with the Attribute Editor: override the directory where custom Attribute Editor templates are found.
+
+MAYA_CUSTOM_TEMPLATE_WRITE_PATH
+Use with the Node Editor. You can customize the list of attributes displayed for each node.
+
+MAYA_MODULE_PATH
+Defines the search paths for Maya module files.
+
+MAYA_MOVIE_DIR
+Override the directory where movie files are found. 
+
+MAYA_LOCATION
+The path for the Maya installation directory.
+
+MAYA_PACKAGE_PATH
+Lets you include a directory in a non-standard location in the default search path for Maya module files from the Autodesk App store.
+
+MAYA_PLUGIN_IN_PATH
+Search path for plug-ins.
+ 
+MAYA_PRESET_PATH
+Defines the location for Maya presets.
+
+MAYA_PROJECT
+Specifies the location of your project folder on startup. 
+
+MAYA_PROJECTS _DIR
+Specifies the location of your project folder. 
+
+MAYA_SHELF_PATH
+Specifies the directories that Maya searches to access the shelves.
+
+MAYA_SCRIPT_PATH
+Colon-separated search path for MEL scripts.
+
+MAYA_TOOLCLIPS_PATH
+Specifies the directories that Maya searches for ToolClip content.
+
+PYTHONPATH
+Defines the location of Python library files. 
+
+XBMLANGPATH
+Specifies the location of icon files, including icons used for Shelf buttons. 
